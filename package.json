@@ -13,11 +13,11 @@
   "devDependencies": {
     "serve": "^14.2.1",
     "typescript": "^5.2.2",
-    "vite": "^5.1.7"
+    "vite": "^5.4.6"
   },
   "dependencies": {
     "@builder.io/qwik": "^1.4.5",
-    "vinxi": "0.3.3",
+    "vinxi": "0.3.14",
     "vite-tsconfig-paths": "4.3.1"
   }
 }
